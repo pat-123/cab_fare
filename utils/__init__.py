@@ -32,4 +32,6 @@ from statsmodels.stats.outliers_influence import variance_inflation_factor
 from sklearn.linear_model import LinearRegression
 from scipy import stats
 
+from pandas.plotting import scatter_matrix
+
 
