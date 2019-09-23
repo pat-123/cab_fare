@@ -17,8 +17,8 @@ Few points worth mentioning regarding directory structure:
 ---------------------------------------------------
 How to run this?
 -----------------------------------------------------
-  ++ start Anaconda prompt and go to this folder's parent location and type jupyter notebook or just go inside the folder notebooks in the cur directory and type 'jupyter notebook Santander' on anaconda prompt.
-  ++ FYI- In the first option, notebook starts with the parent folder as the base location and you can navigate to different projects from there
+- start Anaconda prompt and go to this folder's parent location and type jupyter notebook or just go inside the folder notebooks in the cur directory and type 'jupyter notebook Santander' on anaconda prompt.
+- FYI- In the first option, notebook starts with the parent folder as the base location and you can navigate to different projects from there
 
 
 ------------------------------------------------------
